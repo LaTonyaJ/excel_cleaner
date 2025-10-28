@@ -1,0 +1,4 @@
+name,amount,date_of_purchase,notes
+Alice,100,2021-01-05,Paid
+Bob,200,2021/02/10,Late
+Charlie,,,
